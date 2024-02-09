@@ -1,0 +1,11 @@
+version: 1
+apps:
+  - name: "app1"
+    command: "ping"
+    args: ["google.com"]
+  - name: "app2"
+    command: "ping"
+    args: ["facebook.com"]
+  - name: "app2"
+    command: "ping"
+    args: ["notfound.right"]
